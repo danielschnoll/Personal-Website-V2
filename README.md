@@ -1,1 +1,4 @@
 # Personal-Website-V2
+This is Version 2 of my personal website, which I built out of a static HTML resume website template called Ceevee. You can view Ceevee's readme.txt [here](https://github.com/danielschnoll/Personal-Website-V2/blob/master/readme.txt). I originally was going to keep my site at Version 1, but I wanted more functionality and flexibility with different modules. 
+
+I found the template on [Styleshout](http://styleshout.com). Not only is it free, but it has different components for highlighting resume skills and has a portfolio section. I may or may not eventually switch to a different HTML template, but Version 3 (or 4, depending if I switch to a different template) is going to be built a `Gatsby.js` or `Phenomic` static generated site with `React.js`. Until then, this purely HTML static templated site will have to suffice.
