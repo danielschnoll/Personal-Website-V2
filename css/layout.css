@@ -350,13 +350,8 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: django 2s ease;
     -webkit-animation: django 2s ease;
 }
-.reactjs {
-  	width: 30%;
-  	-moz-animation: reactjs 2s ease;
-  	-webkit-animation: reactjs 2s ease;
-}
 .git {
-  	width: 55%;
+  	width: 45%;
   	-moz-animation: git 2s ease;
   	-webkit-animation: git 2s ease;
 }
@@ -377,22 +372,17 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: mysql 2s ease;
 }
 .php{
-  width: 30%;
+  width: 35%;
   -moz-animation: php 2s ease;
   -webkit-animation: php 2s ease;
 }
-.jquery{
-  width: 40%;
-  -moz-animation: jquery 2s ease;
-  -webkit-animation: jquery 2s ease;
-}
 .javascript{
-  width: 40%;
+  width: 35%;
   -moz-animation: javascript 2s ease;
   -webkit-animation: javascript 2s ease;
 }
 .postgres{
-  width: 35%;
+  width: 60%;
   -moz-animation: postgres 2s ease;
   -webkit-animation: postgres 2s ease;
 }
@@ -417,13 +407,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-moz-keyframes reactjs {
-  0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
 @-moz-keyframes git {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 45%;  }
 }
 @-moz-keyframes c {
   0%   { width: 0px;  }
@@ -439,19 +425,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
-@-moz-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes postgres {
   0%   { width: 0px;  }
-  100% { width: 35%;  }
+  100% { width: 60%;  }
 }
 
 
@@ -475,13 +457,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-webkit-keyframes reactjs {
-  0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
 @-webkit-keyframes git {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 45%;  }
 }
 @-webkit-keyframes c {
   0%   { width: 0px;  }
@@ -497,19 +475,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
-@-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-webkit-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-webkit-keyframes postgres {
   0%   { width: 0px;  }
-  100% { width: 35%;  }
+  100% { width: 60%;  }
 }
 
 /* ------------------------------------------------------------------ */
